@@ -1,6 +1,6 @@
 # All articles by Shivang Kainthola
 
-Compiling all my articles/blog posts across Linkedin/Medium and indexing by topics: 
+#### Compiling all my articles/blog posts across Linkedin/Medium and indexing by topics: 
 ---
 
 ### Index/ Topic :  
@@ -47,7 +47,7 @@ Covers types of data, Big Data, data engineering, data pipeline, ETL process, da
 
 3.8) [Building Simple Neural Networks in TensorFlow : Basic tools and steps](https://github.com/HeadHunter28/all_articles/blob/main/Deep%20Learning/Building%20Basic%20Neural%20Networks%20with%20TensorFlow.pdf)
 
-3.9) [The Need for Convolutional Neural Networks - Introduction] ()
+3.9) [The Need for Convolutional Neural Networks - Introduction](https://github.com/HeadHunter28/all_articles/blob/main/Deep%20Learning/The%20Need%20For%20Convolutional%20Neural%20Networks%20.pdf)
 
 
 ### 4. Tools for Data 
