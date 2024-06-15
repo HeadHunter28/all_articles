@@ -9,7 +9,6 @@
 
 Covers types of data, Big Data, data engineering, data pipeline, ETL process, data repositories, and key roles in the data ecosystem.
 
-<br>
 
 ### 2. Machine Learning 
 
@@ -25,7 +24,6 @@ Covers types of data, Big Data, data engineering, data pipeline, ETL process, da
 
 2.6) [House Price Prediction - Jupyter Notebook](https://github.com/HeadHunter28/all_articles/blob/main/Deep%20Learning/House%20Price%20Prediction-%20Machine%20Learning.pdf)
 
-<br>
 
 ### 3. Deep Learning
 
@@ -47,7 +45,8 @@ Covers types of data, Big Data, data engineering, data pipeline, ETL process, da
 
 3.8) [Building Simple Neural Networks in TensorFlow : Basic tools and steps](https://github.com/HeadHunter28/all_articles/blob/main/Deep%20Learning/Building%20Basic%20Neural%20Networks%20with%20TensorFlow.pdf)
 
-<br>
+3.9) [The Need for Convolutional Neural Networks - Introduction] ()
+
 
 ### 4. Tools for Data 
 
