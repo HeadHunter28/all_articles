@@ -3,11 +3,11 @@
 ----
 ### Index/ Topic :  
 
-### 1. Data Engineering and ETL process 
+### 1. Data Engineering 
 
-### 2. Machine Learning Explained 
+### 2. Machine Learning 
 
-### 3. Working of Neural Networks 
+### 3. Deep Learning
 
 ### 4. 
 
