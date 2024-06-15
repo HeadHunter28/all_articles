@@ -1,17 +1,31 @@
 # All articles by Shivang Kainthola
-<br>
-----
+---
+
 ### Index/ Topic :  
 
 ### 1. Data Engineering 
 
-1.1) [Data Ecosystem Explained]() 
+1.1) [Data Ecosystem Explained](https://github.com/HeadHunter28/all_articles/blob/main/Data%20Engineering/Data%20Ecosystem%20Explained.pdf) 
 
 Covers types of data, Big Data, data engineering, data pipeline, ETL process, data repositories, and key roles in the data ecosystem.
 
+<br>
+
 ### 2. Machine Learning 
 
-2.1) [Machine Learning Explained]()
+2.1) [Machine Learning Explained](https://github.com/HeadHunter28/all_articles/blob/main/Machine%20Learning/Machine%20Learning%20Explained.pdf)
+
+2.2) [Linear Regression](https://shivangkainthola28.medium.com/machine-learning-20d35df8c774)
+
+2.3) [Ridge Regression](https://shivangkainthola28.medium.com/machine-learning-ridge-regression-856dfb34448f)
+
+2.4) [Lasso Regression](https://shivangkainthola28.medium.com/machine-learning-lasso-regression-41339c7e6b92)
+
+2.5) [Elastic Net Regression](https://shivangkainthola28.medium.com/machine-learning-elastic-net-regression-b8fbfb2c1bfe)
+
+2.6) [House Price Prediction - Jupyter Notebook](https://github.com/HeadHunter28/all_articles/blob/main/Deep%20Learning/House%20Price%20Prediction-%20Machine%20Learning.pdf)
+
+<br>
 
 ### 3. Deep Learning
 
@@ -33,5 +47,9 @@ Covers types of data, Big Data, data engineering, data pipeline, ETL process, da
 
 3.8) [Building Simple Neural Networks in TensorFlow : Basic tools and steps](https://github.com/HeadHunter28/all_articles/blob/main/Deep%20Learning/Building%20Basic%20Neural%20Networks%20with%20TensorFlow.pdf)
 
+<br>
 
+### 4. Tools for Data 
+
+4.1) [Pandas Library : Basic commands and functions](https://github.com/HeadHunter28/all_articles/blob/main/Data%20Tools/Basic%20Pandas%20-%20Commands%20and%20Functions.pdf)
 
