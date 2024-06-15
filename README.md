@@ -1,11 +1,13 @@
 # All articles by Shivang Kainthola
-<br><br> 
+<br>
 ----
 ### Index/ Topic :  
 
 ### 1. Data Engineering 
 
-1.1) [Data Ecosystem Explained]()
+1.1) [Data Ecosystem Explained]() 
+
+Covers types of data, Big Data, data engineering, data pipeline, ETL process, data repositories, and key roles in the data ecosystem.
 
 ### 2. Machine Learning 
 
@@ -31,5 +33,5 @@
 
 3.8) [Building Simple Neural Networks in TensorFlow : Basic tools and steps](https://github.com/HeadHunter28/all_articles/blob/main/Deep%20Learning/Building%20Basic%20Neural%20Networks%20with%20TensorFlow.pdf)
 
-### 4. 
+
 
