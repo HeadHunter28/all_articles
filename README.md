@@ -47,8 +47,13 @@ Covers types of data, Big Data, data engineering, data pipeline, ETL process, da
 
 3.8) [Building Simple Neural Networks in TensorFlow : Basic tools and steps](https://github.com/HeadHunter28/all_articles/blob/main/Deep%20Learning/Building%20Basic%20Neural%20Networks%20with%20TensorFlow.pdf)
 
+#### Convolutional Neural Networks
+
 3.9) [The Need for Convolutional Neural Networks - Introduction](https://github.com/HeadHunter28/all_articles/blob/main/Deep%20Learning/The%20Need%20For%20Convolutional%20Neural%20Networks%20.pdf)
 
+3.10) [Introduction to Kernels, Kernel Stride and Image Padding in Convolutional Neural Networks](https://github.com/HeadHunter28/all_articles/blob/main/Deep%20Learning/Kernels%20-Stride%20and%20Padding%20in%20CNNs.pdf)
+
+3.11) [Pooling in Convolutional Neural Netwoks](https://github.com/HeadHunter28/all_articles/blob/main/Deep%20Learning/Pooling%20in%20CNNs.pdf)
 
 ### 4. Tools for Data 
 
