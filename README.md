@@ -55,6 +55,10 @@ Covers types of data, Big Data, data engineering, data pipeline, ETL process, da
 
 3.11) [Pooling in Convolutional Neural Netwoks](https://github.com/HeadHunter28/all_articles/blob/main/Deep%20Learning/Pooling%20in%20CNNs.pdf)
 
+3.12) [Regularization Problems and Solution Techniques for Neural Networks - Dropout, Batch Normalization etc.](https://github.com/HeadHunter28/all_articles/blob/main/Deep%20Learning/Regularization%20for%20Neural%20Networks%20.pdf)
+
+3.13) [Structure of Convolutional Neural Networks - Explained Layer-by-Layer](https://github.com/HeadHunter28/all_articles/blob/main/Deep%20Learning/Structure%20of%20Convolutional%20Neural%20Networks%20.pdf)
+
 ### 4. Tools for Data 
 
 4.1) [Pandas Library : Basic commands and functions](https://github.com/HeadHunter28/all_articles/blob/main/Data%20Tools/Basic%20Pandas%20-%20Commands%20and%20Functions.pdf)
