@@ -1,6 +1,7 @@
 # All articles by Shivang Kainthola
 
-#### Compiling all my articles/blog posts across Linkedin/Medium and indexing by topics: 
+
+#### All my articles/blog posts across Linkedin/Medium and indexed by topics : 
 ---
 
 ### Index/ Topic :  
