@@ -60,6 +60,9 @@ Covers types of data, Big Data, data engineering, data pipeline, ETL process, da
 
 3.13) [Structure of Convolutional Neural Networks - Explained Layer-by-Layer](https://github.com/HeadHunter28/all_articles/blob/main/Deep%20Learning/Structure%20of%20Convolutional%20Neural%20Networks%20.pdf)
 
+3.14) [Transfer Learning for Convolutional Neural Networks](https://github.com/HeadHunter28/all_articles/blob/fd74797ce645dbc5699740bea91472f3ab6b33d3/Deep%20Learning/Transfer%20Learning%20for%20Convolutional%20Neural%20Networks%20.pdf)
+
+3.15) [Building Convolutional Neural Networks and Transfer Learning Models with TensorFlow and Python]()
 ### 4. Tools for Data 
 
 4.1) [Pandas Library : Basic commands and functions](https://github.com/HeadHunter28/all_articles/blob/main/Data%20Tools/Basic%20Pandas%20-%20Commands%20and%20Functions.pdf)
